@@ -279,8 +279,8 @@ snpboostlss <- function(data.dir, # data folder
                                    prediction.mu = prediction.mu, 
                                    prediction.sigma = prediction.sigma, 
                                    prediction.mu_val = prediction.mu_val,
-                                   prediction.sigma_val = prediction.sigma_val,
-                                   iter = iter)
+                                   prediction.sigma_val = prediction.sigma_val
+                                   )
     
     ###----------Save results from inner loop----------###
     m_batch_list[iter] <- lmlss_boost_tmp$stop
