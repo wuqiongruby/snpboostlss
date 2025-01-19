@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # snpboostlss
 
 An algorithm to apply statistical boosting for distributional regression
