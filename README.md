@@ -10,7 +10,7 @@ Simulations provides R Code and bash scripts that were used to run the
 simulation on phenotypes based on HAPNEST synthetic genotype data and
 fit statistical boosting models on those.
 
-UK_biobank_application provides R scripts that were used to fit
+UK_biobank_application provides R scripts that are used to fit
 snpboostlss and snpboost models on UKBB data.
 
 Installation: The following requirements of snpboostlss are available
